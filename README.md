@@ -1,4 +1,4 @@
-City Library Database is a beginner-friendly mySQL project where you can manipulate data &amp learn the basics of DDL. Further updates are on schedule. 
+City Library Database is a beginner-friendly mySQL project where you can manipulate data & learn the basics of DDL. Further updates are on schedule. 
 
 This database is simulated in a library where users can borrow books from multiple libraries in the city. 
 It has the following rules : 
